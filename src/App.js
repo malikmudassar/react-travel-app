@@ -18,7 +18,6 @@ const App = ()  => {
                 <Map />
             </Grid>
         </Grid>
-        <h1>React JS fucking works!</h1>
     </>);
 }
 
